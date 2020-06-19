@@ -7,6 +7,7 @@ to make the most meaningful and useful impact possible.
 
 ## Raising an Issue to Encourage a Contribution
 
+
 If you notice a problem with the curriculum that you believe needs improvement
 but you're unable to make the change yourself, you should raise a Github issue
 containing a clear description of the problem. Include relevant snippets of
